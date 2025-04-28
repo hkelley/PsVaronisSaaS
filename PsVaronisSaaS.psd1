@@ -22,7 +22,7 @@ Author = 'Hugh Kelley'
 #Copyright = '(c) Hugh Kelley. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Helper commands for interacting with the Varonis SaaS GraphQL API'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
